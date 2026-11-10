@@ -1,0 +1,17 @@
+{
+  "name": "html-paste-url",
+  "version": "1.0.0",
+  "description": "Sirf HTML daalo aur share karne layak URL banao - Docker bina chalta hai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["html", "paste", "url", "railway", "no-docker"],
+  "license": "MIT"
+}
